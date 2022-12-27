@@ -1,4 +1,4 @@
-// input arr[]={"abcdefghi}
+// input String s="abcdefghi";
 //        output : ghi
 //                 def
 //                 abc
