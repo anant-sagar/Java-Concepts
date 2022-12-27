@@ -10,7 +10,7 @@ public class StringPattern
   public static void main (String args[])
   {
 
-    String str = "abcdefghijkl";
+    String str = "abcdefghijklmno";
     int i = str.length () - 1;//8
     int j = str.length () - 3;//6
     float k= str.length()/3;
