@@ -10,10 +10,11 @@ public class StringPattern
   public static void main (String args[])
   {
 
-    String str = "abcdefghi";
+    String str = "abcdefghijkl";
     int i = str.length () - 1;//8
     int j = str.length () - 3;//6
-    for (int a = 0; a < 3; a++)
+    float k= str.length()/3;
+    for (int a = 0; a < k; a++)
     {
 	    for (int b = j; b<=i; b++)
 	        {
