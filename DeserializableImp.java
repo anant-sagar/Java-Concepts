@@ -1,3 +1,8 @@
+// The reverse operation of serialization is called deserialization 
+// where byte-stream is converted into an object. The serialization and deserialization process 
+// is platform-independent, it means you can serialize an object on one platform and deserialize 
+// it on a different platform.
+
 import java.io.*;  
 class DeserializableImp{  
  public static void main(String args[]){  
